@@ -1,2 +1,0 @@
-# test
-IntelliJ Test
